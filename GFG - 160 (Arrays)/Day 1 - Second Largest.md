@@ -185,5 +185,5 @@ For discussions, questions, or doubts related to this solution, feel free to con
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
+  <img src="https://profile-counter.glitch.me/abhishekrai69/count.svg" />
 </p>
